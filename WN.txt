@@ -1,0 +1,7 @@
+Channel config files
+Generate cryptomaterials
+Start network
+Start writing app
+Write sign up and sign in
+Confirm availability of network from app
+
