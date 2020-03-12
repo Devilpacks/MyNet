@@ -9,6 +9,7 @@ Node.js app working with NodeSDK APIs
 * **Node.js** v8.4.0 or higher
 * [Download Docker images](http://hyperledger-fabric.readthedocs.io/en/latest/samples.html#binaries)
 
+### Network configuration
 
 * 2 CAs
 * A SOLO orderer
